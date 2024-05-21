@@ -1,0 +1,11 @@
+{
+    "root": true,
+    "rules": {
+        "void-style": ["off", {"style": "omit"}],
+        "wcag/h30": "off"
+    },
+    "elements": [
+        "html5"
+        
+    ]
+}
